@@ -1,0 +1,23 @@
+.list-tasks {
+    list-style: none;
+}
+
+/* li * {
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+li i {
+    --width : 14px;
+    width: let(--width);
+    height: let(--width);
+    border: 1px solid;
+}
+
+li *::before {
+    position: absolute;
+    inset: 0;
+    display: grid;
+    place-items: center;
+} */
